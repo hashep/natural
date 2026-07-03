@@ -22,26 +22,6 @@ Python과 머신러닝을 활용하여 SMS 메시지를 스팸(spam)과 일반 �
 
 ---
 
-## 프로젝트 구조
-
-```text
-natural-main/
-└── chungchungchung.py
-```
-
----
-
-## 스택
-
-- Python
-- Pandas
-- NLTK
-- Scikit-learn
-- TF-IDF Vectorizer
-- Multinomial Naive Bayes
-
----
-
 ## 머신러닝 과정
 
 1. SMS 데이터셋 불러오기
@@ -61,6 +41,26 @@ natural-main/
 - Recall
 - F1 Score
 - Confusion Matrix
+
+---
+
+## 프로젝트 구조
+
+```text
+natural-main/
+└── chungchungchung.py
+```
+
+---
+
+## 스택
+
+- Python
+- Pandas
+- NLTK
+- Scikit-learn
+- TF-IDF Vectorizer
+- Multinomial Naive Bayes
 
 ---
 
